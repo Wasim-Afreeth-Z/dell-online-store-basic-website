@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+ </header>
+  
+      
+ <main>
+ <div class="form-container">
+  <h1>Contact Form</h1>
+  <form name="contactForm" method="post" onsubmit = "return validate()" action="#">
+    <label for="name">* Name</label>
+    <input type="text" id="name" name="name" placeholder="Your name" >
+    <span class="errors"></span><br>
+
+    <label for="email">* Email</label>
+    <input type="text" placeholder="Email address" id="email" name="email" >
+    <span class="errors"></span><br>
+
+    <label for="phone">* Phone</label>
+    <input type="text" placeholder="Phone number" id="phone" name="phone" >
+    <span class="errors"></span><br>
+    
+    <label for="subject">* Message</label>
+    <textarea placeholder="Your message" cols="132" rows="5" name="subject" id="subject"></textarea>
+    <span class="errors"></span><br>
+
+    <button type="submit" value="Submit">Submit</button>
+  </form>
+</div>    
+ </main>
+  <script src="./js/script.js"></script>
+   
+  </body>
+</html>
