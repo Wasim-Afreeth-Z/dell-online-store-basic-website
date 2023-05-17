@@ -12,4 +12,6 @@
 
 ![contact](https://github.com/Wasim-Afreeth-Z/dell-online-store-basic-website/assets/126801455/db45c478-830e-41f8-bf11-6ff66bf5e868)
 
-# ========== Thank You ==========
+<div align="center">
+    <h3>========Thank You=========</h3>
+</div>
