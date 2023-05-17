@@ -3,9 +3,11 @@
 ## follow the steps
 
 ```
-* for run the website
-* in image folder select all image and paste on main folder on the website
-* then press the frame.html folder
+for run the website
+
+in image folder select all image and paste on main folder on the website
+
+then press the frame.html folder
 ```
 
 ![home](https://github.com/Wasim-Afreeth-Z/dell-online-store-basic-website/assets/126801455/09b6c1cb-6e09-43c6-b87b-3a94283e6f25)
